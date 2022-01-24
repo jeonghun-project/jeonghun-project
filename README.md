@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-project&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonghun-project&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=dsjoh111&theme=nord&extension=activity)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=dsjoh111&theme=nord)
 
 ### 이력
 
