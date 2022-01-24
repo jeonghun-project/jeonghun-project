@@ -1,24 +1,25 @@
-# 꿈꾸는 개발자 "최정훈" 입니다 ☁
 <div align="center">
+  
+# 꿈꾸는 개발자 "최정훈" 입니다 ☁
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-project&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonghun-project&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=dsjoh111&theme=nord)
 
-### 이력
+## 이력
 
 
-MXNcommerce Korea : Back-end Engineer
-  
+MXNcommerce Korea : Back-end Engineer <br>
 수파자 : Growth marketor
 
-> 42-Seoul에서 C언어로 개발시작 - 본과정에 도달하지 못하고 중도 탈락
-> 포기하지 못한 개발자 커리어 Codestate(웹 풀스택 과정 - 부트캠프) 수료
-> 현재 글로벌 커머스 기업인 MXN Commerce Back-end 엔지니어로 근무중
+ *42-Seoul에서 C언어로 개발시작 - 본과정에 도달하지 못하고 중도 탈락* <br>
+ *포기하지 못한 개발자 커리어 Codestate(웹 풀스택 과정 - 부트캠프) 수료* <br>
+ *현재 글로벌 커머스 기업인 MXN Commerce Back-end 엔지니어로 근무중*
 
   
-#### Stack
+### Stack
   
   **language** | **Framework** | **Database** | **Server**
   | :---: | :---: | :---: | :---: |
