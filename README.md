@@ -11,6 +11,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonghun-project&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=dsjoh111&theme=nord)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-project&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 이력
 
@@ -30,8 +32,6 @@ MXNcommerce Korea : Back-end Engineer <br>
   | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
   | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
   |  |  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) |
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-project&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 How to reach me: 
   
