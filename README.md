@@ -1,9 +1,41 @@
-### Hi there 👋
+# 꿈꾸는 개발자 "최정훈" 입니다 ☁
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-project&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonghun-project&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonghun-project)](https://github.com/anuraghazra/github-readme-stats)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=dsjoh111&theme=nord&extension=activity)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23A449FF&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 이력
 
+
+MXNcommerce Korea : Back-end Engineer
+  
+수파자 : Growth marketor
+
+> 42-Seoul에서 C언어로 개발시작 - 본과정에 도달하지 못하고 중도 탈락
+> 포기하지 못한 개발자 커리어 Codestate(웹 풀스택 과정 - 부트캠프) 수료
+> 현재 글로벌 커머스 기업인 MXN Commerce Back-end 엔지니어로 근무중
+
+  
+#### Stack
+  
+  **language** | **Framework** | **Database** | **Server**
+  | :---: | :---: | :---: | :---: |
+  | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
+  | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+  |  |  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) |
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghun-project%2Fhit-counter&count_bg=%2379C83D&title_bg=%23C33BFF&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+
+📫 How to reach me: 
+  
+  <a href="mailto:dsjoh111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</div>
 <!--
 **jeonghun-project/jeonghun-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
