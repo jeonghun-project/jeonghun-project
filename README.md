@@ -16,7 +16,7 @@
 
 ## 이력
 
-
+Wizpace: Back-end Engineer <br>
 MXNcommerce Korea : Back-end Engineer <br>
 수파자 : Growth marketor
 
