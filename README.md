@@ -22,7 +22,8 @@ MXNcommerce Korea : Back-end Engineer <br>
 
  *42-Seoul에서 C언어로 개발시작 - 본과정에 도달하지 못하고 중도 탈락* <br>
  *포기하지 못한 개발자 커리어 Codestate(웹 풀스택 과정 - 부트캠프) 수료* <br>
- *현재 글로벌 커머스 기업인 MXN Commerce Back-end 엔지니어로 근무중*
+ *글로벌 커머스 기업인 MXN Commerce Back-end 엔지니어 근무(9개월)* <br>
+ *현재 block-chain Coin 거래소의 종합 포트폴리오를 제공하는 League of traders 엡/웹 back-end 엔지니어 근무중* <br>
 
   
 ### Stack
